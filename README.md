@@ -1,4 +1,4 @@
-# WhatsApp Bulk Messaging Service
+# WhatsApp Messages For Mongo
 
 A Node.js-based backend service for sending and receiving bulk WhatsApp messages, storing all chat history in MongoDB. This project leverages WhatsApp Web automation for programmatic messaging, robust number validation, and media support, making it ideal for CRM, marketing, or chat archiving solutions.
 
