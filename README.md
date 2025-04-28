@@ -107,7 +107,7 @@ Each chat document in MongoDB:
 ## Notes & Best Practices
 - **Phone numbers must be in international format** (e.g., `+1234567890`).
 - **QR code authentication required** on first run (scan with WhatsApp mobile app).
-- **All messages (sent and received) are stored** in a chat-friendly structure in MongoDB.
+- **All messages (sent and received) are stored** in a chat-friendly structure in MongoDB (Except for Groups and Newsletters which you can adjust in the code).
 - **Media files** are temporarily stored in `/temp` and deleted after sending.
 
 ---
